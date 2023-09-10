@@ -1,0 +1,279 @@
+[
+  {
+    "id": 1,
+    "name": "Books",
+    "link": "/books",
+    "subCategories": [
+      {
+        "id": 11,
+        "subName": "Classics",
+        "link": "/books/classic",
+        "lastCategories": [
+          {
+            "id": 111,
+            "lastName": "Story of Ghost",
+            "link": "/books/classic/111",
+            "img": "https://i.ibb.co/S3xrSkZ/Fantasy-kingdom.jpg"
+          },
+          {
+            "id": 112,
+            "lastName": "Story of Diana",
+            "link": "/books/classic/112",
+            "img": "https://i.ibb.co/S3xrSkZ/Fantasy-kingdom.jpg"
+          },
+          {
+            "id": 113,
+            "lastName": "Story of Bhoot",
+            "link": "/books/classic/113",
+            "img": "https://i.ibb.co/S3xrSkZ/Fantasy-kingdom.jpg"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "subName": "Crime",
+        "link": "/books/crime",
+        "lastCategories": [
+          {
+            "id": 121,
+            "lastName": "Wanted Murderer",
+            "link": "/books/crime/121",
+            "img": "https://i.ibb.co/S3xrSkZ/Fantasy-kingdom.jpg"
+          },
+          {
+            "id": 122,
+            "lastName": "Blind Man",
+            "link": "/books/crime/122",
+            "img": "https://i.ibb.co/S3xrSkZ/Fantasy-kingdom.jpg"
+          },
+          {
+            "id": 123,
+            "lastName": "Potassium Sarcosinate",
+            "link": "/books/crime/123",
+            "img": "https://i.ibb.co/S3xrSkZ/Fantasy-kingdom.jpg"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "subName": "Fantasy",
+        "link": "/books/fantasy",
+        "lastCategories": [
+          {
+            "id": 131,
+            "lastName": "Fantasy Kingdom",
+            "link": "/books/fantasy/131",
+            "img": "https://i.ibb.co/S3xrSkZ/Fantasy-kingdom.jpg"
+          },
+          {
+            "id": 132,
+            "lastName": "Jocker Ghost",
+            "link": "/books/fantasy/132",
+            "img": "https://i.ibb.co/S3xrSkZ/Fantasy-kingdom.jpg"
+          },
+          {
+            "id": 133,
+            "lastName": "Journey of Love",
+            "link": "/books/fantasy/133",
+            "img": "https://i.ibb.co/S3xrSkZ/Fantasy-kingdom.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Clothing",
+    "link": "/clothing",
+    "subCategories": [
+      {
+        "id": 22,
+        "subName": "Man",
+        "link": "/clothing/man",
+        "lastCategories": [
+          {
+            "id": 221,
+            "lastName": "Pants",
+            "link": "/clothing/man/221",
+            "img": "https://i.ibb.co/cQXBd9M/pants.jpg"
+          },
+          {
+            "id": 222,
+            "lastName": "Shirts",
+            "link": "/clothing/man/222",
+            "img": "https://i.ibb.co/JC5M7yL/shirts.jpg"
+          },
+          {
+            "id": 223,
+            "lastName": "Tshirts",
+            "link": "/clothing/man/223",
+            "img": "https://i.ibb.co/PCB0dfw/tshirt.jpg"
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "subName": "Women",
+        "link": "/clothing/women",
+        "lastCategories": [
+          {
+            "id": 231,
+            "lastName": "Sharee",
+            "link": "/clothing/man/231",
+            "img": "https://i.ibb.co/K0QzpGs/sharee.png"
+          },
+          {
+            "id": 232,
+            "lastName": "Three Pieces",
+            "link": "/clothing/man/232",
+            "img": "https://i.ibb.co/XXDH0sD/three.png"
+          },
+          {
+            "id": 233,
+            "lastName": "Plaju",
+            "link": "/clothing/women/233",
+            "img": "https://i.ibb.co/HGWBpZn/plaju.jpg"
+          },
+          {
+            "id": 234,
+            "lastName": "Hijab",
+            "link": "/clothing/women/234",
+            "img": "https://i.ibb.co/q7Zcmts/hijab.jpg"
+          },
+          {
+            "id": 235,
+            "lastName": "Borkha",
+            "link": "/clothing/women/235",
+            "img": "https://i.ibb.co/0hQJym2/borkha.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Gears",
+    "link": "/gears",
+    "subCategories": [
+      {
+        "id": 33,
+        "subName": "Mic",
+        "link": "/gears/mic",
+        "lastCategories": [
+          {
+            "id": 331,
+            "lastName": "Mini Mic",
+            "link": "/gears/mic/331",
+            "img": "https://i.ibb.co/74GPyXJ/mic.jpg"
+          },
+          {
+            "id": 332,
+            "lastName": "Mid Mic",
+            "link": "/gears/mic/332",
+            "img": "https://i.ibb.co/74GPyXJ/mic.jpg"
+          },
+          {
+            "id": 334,
+            "lastName": "High Mic",
+            "link": "/gears/mic/333",
+            "img": "https://i.ibb.co/74GPyXJ/mic.jpg"
+          }
+        ]
+      },
+      {
+        "id": 34,
+        "subName": "Headphones",
+        "link": "/gears/headphones",
+        "lastCategories": [
+          {
+            "id": 341,
+            "lastName": "Rode Headphone",
+            "link": "/gears/headphones/341",
+            "img": "https://i.ibb.co/jgJ3q3c/headphones.jpg"
+          },
+          {
+            "id": 342,
+            "lastName": "A4Tech",
+            "link": "/gears/headphones/342",
+            "img": "https://i.ibb.co/jgJ3q3c/headphones.jpg"
+          },
+          {
+            "id": 343,
+            "lastName": "Remax",
+            "link": "/gears/headphones/343",
+            "img": "https://i.ibb.co/jgJ3q3c/headphones.jpg"
+          },
+          {
+            "id": 344,
+            "lastName": "Hijab",
+            "link": "/gears/headphones/344",
+            "img": "https://i.ibb.co/jgJ3q3c/headphones.jpg"
+          },
+          {
+            "id": 345,
+            "lastName": "Borkha",
+            "link": "/gears/headphones/345",
+            "img": "https://i.ibb.co/jgJ3q3c/headphones.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Mother and Baby",
+    "link": "/momsAndBaby",
+    "subCategories": [
+      {
+        "id": 44,
+        "subName": "Feeding",
+        "link": "/momsAndBaby/feeding",
+        "lastCategories": [
+          {
+            "id": 441,
+            "lastName": "Breast Feeding",
+            "link": "/momsAndBaby/feeding/441",
+            "img": "https://i.ibb.co/DDyVtVZ/momsandbabies.jpg"
+          },
+          {
+            "id": 442,
+            "lastName": "Bottle Feeding",
+            "link": "/momsAndBaby/feeding/441",
+            "img": "https://i.ibb.co/DDyVtVZ/momsandbabies.jpg"
+          },
+          {
+            "id": 443,
+            "lastName": "Nan",
+            "link": "/momsAndBaby/feeding/441",
+            "img": "https://i.ibb.co/DDyVtVZ/momsandbabies.jpg"
+          }
+        ]
+      },
+      {
+        "id": 45,
+        "subName": "Nursery",
+        "link": "/momsAndBaby/nursery",
+        "lastCategories": [
+          {
+            "id": 451,
+            "lastName": "Lotion",
+            "link": "/gears/headphones/341",
+            "img": "https://i.ibb.co/xjhDwHd/blankets.jpg"
+          },
+          {
+            "id": 452,
+            "lastName": "Wall Touch",
+            "link": "/gears/headphones/342",
+            "img": "https://i.ibb.co/xjhDwHd/blankets.jpg"
+          },
+          {
+            "id": 453,
+            "lastName": "Blankets",
+            "link": "/gears/headphones/343",
+            "img": "https://i.ibb.co/xjhDwHd/blankets.jpg"
+          }
+        ]
+      }
+    ]
+  }
+]
